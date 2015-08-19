@@ -1,3 +1,3 @@
 # Cape-SciPy-Class
 A repository for work done in my SciPy class.
-Meeting in Falmouth
+Meeting in Falmouth.
